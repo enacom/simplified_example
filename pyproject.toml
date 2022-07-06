@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "simplified_example"
-version = "0.1.0"
+version = "0.1.1"
 description = "Exemplo de otimização simplificada."
 authors = ["André Rocha <andre.rocha@enacom.com.br>"]
 
